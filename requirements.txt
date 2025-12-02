@@ -1,0 +1,7 @@
+streamlit
+langchain
+langgraph
+python-dotenv
+google-generativeai
+crewai
+sqlalchemy
